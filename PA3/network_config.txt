@@ -1,0 +1,23 @@
+# Super-Peer Topology (All-to-All)
+super-peer1:super-peer2,super-peer3,super-peer4,super-peer5,super-peer6,super-peer7,super-peer8,super-peer9,super-peer10
+super-peer2:super-peer1,super-peer3,super-peer4,super-peer5,super-peer6,super-peer7,super-peer8,super-peer9,super-peer10
+super-peer3:super-peer1,super-peer2,super-peer4,super-peer5,super-peer6,super-peer7,super-peer8,super-peer9,super-peer10
+super-peer4:super-peer1,super-peer2,super-peer3,super-peer5,super-peer6,super-peer7,super-peer8,super-peer9,super-peer10
+super-peer5:super-peer1,super-peer2,super-peer3,super-peer4,super-peer6,super-peer7,super-peer8,super-peer9,super-peer10
+super-peer6:super-peer1,super-peer2,super-peer3,super-peer4,super-peer5,super-peer7,super-peer8,super-peer9,super-peer10
+super-peer7:super-peer1,super-peer2,super-peer3,super-peer4,super-peer5,super-peer6,super-peer8,super-peer9,super-peer10
+super-peer8:super-peer1,super-peer2,super-peer3,super-peer4,super-peer5,super-peer6,super-peer7,super-peer9,super-peer10
+super-peer9:super-peer1,super-peer2,super-peer3,super-peer4,super-peer5,super-peer6,super-peer7,super-peer8,super-peer10
+super-peer10:super-peer1,super-peer2,super-peer3,super-peer4,super-peer5,super-peer6,super-peer7,super-peer8,super-peer9
+
+# Leaf Nodes Assigned to Super-Peers
+super-peer1-leaves:leaf1
+super-peer2-leaves:leaf2
+super-peer3-leaves:leaf3
+super-peer4-leaves:leaf4
+super-peer5-leaves:leaf5
+super-peer6-leaves:leaf6
+super-peer7-leaves:leaf7
+super-peer8-leaves:leaf8
+super-peer9-leaves:leaf9
+super-peer10-leaves:leaf10
